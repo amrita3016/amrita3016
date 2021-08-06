@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amrita Sonare,second year student.
+- 👋 Hi, I’m Amrita Sonare,third year student.
 - 👀 I’m interested in web develpment,coding,ui/ux etc.
 - 🌱 I’m currently learning back end.
 - 💞️ I’m looking to collaborate on front end and back-end projects including ui/ux. 
