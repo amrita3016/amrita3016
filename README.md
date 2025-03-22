@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amrita Sonare BE(CS) graduate.
-- 👀 I’m interested in python,AWS,Machine - Learning.
+- 👋 Hi, I’m Amrita Sonare BE(CS) graduate working in TMF,Pune.
+- 👀 I’m working in the PowerApps platform and MS CRM D365 as CRM Analyst.
 - mail to: amritasona3016@gmail.com
 - portfolio: https://heartfelt-sorbet-ef2db9.netlify.app/
